@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(120, 190, 33);
+}
+
+.navbar-brand{
+    color: white
+    !important;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.logonavbar{
+    margin-right: 20px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 span{
+    font-weight: bolder;
+}
+
+.card{
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(21, 101, 5, 0.5);
+    scale: 1.1;
+}
